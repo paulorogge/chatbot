@@ -1,5 +1,3 @@
-# OpenAI: Curso 2
-
 ## ⚙️ Configuração do Ambiente
 
 ### Criando e Ativando o Ambiente Virtual
