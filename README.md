@@ -1,3 +1,4 @@
+```
 CHATBOT
 Este projeto demonstra como rodar modelos de IA localmente utilizando DeepSeek com o LM Studio.
 
@@ -12,7 +13,7 @@ No Windows:
 python -m venv chatbot
 Ativando o Ambiente Virtual
 chatbot\Scripts\activatet\Scripts\activate
-```
+
 
 📦 Instalação das Dependências
 Execute o seguinte comando para instalar as bibliotecas necessárias:
